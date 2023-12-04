@@ -1,0 +1,10 @@
+{
+  "name": "b11123215",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "https://github.com/yicing17/B11123215-Lab-Pan.git",
+  "author": "yicing17",
+  "license": "MIT",
+  "private": false
+}
